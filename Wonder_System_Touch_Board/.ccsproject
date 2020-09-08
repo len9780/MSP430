@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="10.1.0"/>
+	<deviceVariant value="MSP430FR2533"/>
+	<deviceFamily value="MSP430"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="20.2.1.LTS"/>
+	<isElfFormat value="true"/>
+	<linkerCommandFile value="lnk_msp430fr2533.cmd"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=Wonder_System_Touch_Board.projectspec.Wonder_System_Touch_Board"/>
+	<origin value="D:\FR2633_CAPTIVATE-BSWP_DESIGN_CENTER\Wonder_System_Touch_Board\src\CCS\Wonder_System_Touch_Board.projectspec"/>
+	<filesToOpen value=""/>
+</projectOptions>
